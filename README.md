@@ -6,7 +6,7 @@ A real-time, WhatsApp-inspired chat application built with **Node.js**, **Socket
 ![Node.js](https://img.shields.io/badge/Node.js-20.x+-green?logo=node.js)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-4.x-orange?logo=socket.io)
 
----
+---  
 
 ## 🌟 Features
 
